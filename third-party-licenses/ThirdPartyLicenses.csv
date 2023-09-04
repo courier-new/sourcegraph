@@ -710,9 +710,6 @@ PNPM,@types/react-dom,18.0.2,MIT,"",Approved
 PNPM,@types/react-grid-layout,1.3.2,MIT,"",Approved
 PNPM,@types/react-reconciler,0.28.2,MIT,"",Approved
 PNPM,@types/react-resizable,3.0.2,MIT,"",Approved
-PNPM,@types/react-router,5.1.20,MIT,"",Approved
-PNPM,@types/react-router-dom,5.3.3,MIT,"",Approved
-PNPM,@types/react-router-hash-link,2.4.6,MIT,"",Approved
 PNPM,@types/recharts,1.8.23,MIT,"",Approved
 PNPM,@types/resize-observer-browser,0.1.4,MIT,"",Approved
 PNPM,@types/responselike,1.0.0,MIT,"",Approved
@@ -2728,7 +2725,6 @@ PNPM,react-resizable,3.0.4,MIT,"",Approved
 PNPM,react-resize-detector,2.3.0,MIT,"",Approved
 PNPM,react-router,6.8.1,MIT,"",Approved
 PNPM,react-router-dom,6.8.1,MIT,"",Approved
-PNPM,react-router-hash-link,2.4.3,MIT,"",Approved
 PNPM,react-shallow-renderer,16.15.0,MIT,"",Approved
 PNPM,react-sizeme,3.0.1,MIT,"",Approved
 PNPM,react-smooth,1.0.5,MIT,"",Approved
