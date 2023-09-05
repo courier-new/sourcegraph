@@ -78,6 +78,11 @@ func TestExhaustiveSearch(t *testing.T) {
 
 	got := strings.Join(gotParts, " ")
 	require.Equal(want, got)
+
+	wantCount := 3 // 1 search-job + 2 repo-jobs. Update to 6 once we have enabled the entire worker chain.
+	gotCount, err := s.CancelSearchJob(ctx, jobID)
+	require.NoError(err)
+	require.Equal(wantCount, gotCount)
 }
 
 // insertRow is a helper for inserting a row into a table. It assumes the
