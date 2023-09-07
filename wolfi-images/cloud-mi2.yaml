@@ -7,10 +7,7 @@ contents:
     - mailcap
 
     ## mi2 packages
-    # TODO:
-    # - https://github.com/sourcegraph/sourcegraph/pull/56441
-    # - https://sourcegraph.slack.com/archives/C01GJFE26BX/p1692122382842549
-    - terraform=1.5.5-r3
+    - terraform@sourcegraph
     - helm=3.11.3-r1
     - kustomize=4.5.7-r0
     - nodejs-18=18.17.1-r1
